@@ -1,4 +1,4 @@
-#Version 0.1
+#Version 0.2
 
 # ChangeMaker propmpts the user to enter an amount of dollars and cents. The program then displays the number of quarters, dimes, nickles, and pennies to make that amount
 
